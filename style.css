@@ -323,6 +323,7 @@ align-items: center;
 }
 .
 /* .home-section */
+
 .home-section{
   position: relative;
   background: #E4E9F7;
@@ -356,7 +357,15 @@ align-items: center;
     display: flex;
     flex-direction: column;
     text-align: center;
+    /* font-size: 2.5rem; */
     padding: 7%;
+}
+
+.discription ul {
+  display: block;
+  text-decoration: none;
+
+
 }
 
 .img-box{
