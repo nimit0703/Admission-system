@@ -299,6 +299,30 @@ align-items: center;
   width: 50px;
   background: none;
 }
+
+/* header */
+.title-box{
+  /* text-align: center; */
+  background-color: #11101d;
+  color: #FFF;
+  height: 120px;
+  top: 0;
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.title-box img{
+  /* text-align: left; */
+  margin-left: -100px;
+  
+}
+.title-box h1{
+  text-align: center;
+}
+.
+/* .home-section */
 .home-section{
   position: relative;
   background: #E4E9F7;
@@ -389,6 +413,7 @@ align-items: center;
   color: #04bcff;
   font-size: 18px;
 }
+
 
 /* footer  */
 
